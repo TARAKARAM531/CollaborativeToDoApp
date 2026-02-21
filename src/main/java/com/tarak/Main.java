@@ -53,8 +53,8 @@ public class Main {
                     break;
 
                 case 5:
-                    UserThread t1 = new UserThread(manager, new User("Alice"));
-                    UserThread t2 = new UserThread(manager, new User("Bob"));
+                    UserThread t1 = new UserThread(manager, new User("Tarak"));
+                    UserThread t2 = new UserThread(manager, new User("Arun"));
 
                     t1.start();
                     t2.start();
