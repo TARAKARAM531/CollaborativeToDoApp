@@ -24,7 +24,7 @@ public class Main {
             switch (choice) {
 
                 case 1:
-                    System.out.print("Enter title: ");
+                    System.out.print("Enter task: ");
                     String title = scanner.nextLine();
 
                     System.out.print("Enter category: ");
